@@ -34,9 +34,9 @@ The project uses **two pickle files** to run the app:
 To generate the `.pkl` files locally and run the app:
 
 Ensure you have Python 3 and required libraries installed:
-   to install libraries - pip install -r requirements.txt
-   to generate pickle files - python model.py
-   then run - streamlit run app.py
+1. To install libraries - pip install -r requirements.txt
+2. To generate pickle files - python model.py
+3. Then run - streamlit run app.py
 
 
 The .pkl files are not included in this repo due to size restrictions.
